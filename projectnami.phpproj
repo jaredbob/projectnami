@@ -1555,6 +1555,7 @@
     <Folder Include="wp-includes" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".user.ini" />
     <Content Include="web.config" />
   </ItemGroup>
 </Project>
