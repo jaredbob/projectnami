@@ -478,7 +478,6 @@
     <Compile Include="wp-admin\user-new.php" />
     <Compile Include="wp-admin\users.php" />
     <Compile Include="wp-admin\widgets.php" />
-    <Compile Include="wp-config.php" />
     <Compile Include="wp-content\plugins\pn-fulltext-search\pn-fulltext-search.php" />
     <Compile Include="wp-content\plugins\smtp-configuration\js\smtp-settings.js" />
     <Compile Include="wp-content\plugins\smtp-configuration\smtp-configuration.php" />
@@ -1556,6 +1555,5 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".user.ini" />
-    <Content Include="web.config" />
   </ItemGroup>
 </Project>
